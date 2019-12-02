@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+"It always seems impossible until it's done" -Nelson Mandela
+Use the left arrow to go back!
